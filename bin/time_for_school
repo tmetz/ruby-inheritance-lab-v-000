@@ -24,4 +24,4 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 some_knowledge2 = avi.teach
 steve.learn(some_knowledge2)
-puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+puts "Steve just learned this important knowledge: '#{steve.knowledge.second}' from Avi"
